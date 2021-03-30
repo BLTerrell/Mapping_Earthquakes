@@ -112,3 +112,11 @@ d3.json(airportData).then(function (data) {
         }
     }).addTo(map);
 });
+
+// on EachFeature
+// L.geoJSON(sanFranAirport, {
+//     onEachFeature: function (feature, layer) {
+//         console.log(layer);
+//         layer.bindPopup("<h2> Airport code: " + layer.feature.properties.faa + "</h2> <hr> <h5> Airport name: " + layer.feature.properties.name + "</h5>");
+//     }
+// }).addTo(map);
