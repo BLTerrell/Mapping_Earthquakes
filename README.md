@@ -24,12 +24,12 @@ Here we see the realtionship between the earthquakes from the past 7 days and th
 
 ### Major Earthquakes
 
-When comparing the following image to the previous image we notice that almost all of the magnitude 4.5+ earthquakes occur along major tectonic plate boundaries.
+The following image shows us that almost all of the magnitude 4.5+ earthquakes occur along major tectonic plate boundaries:
 <img src='Earthquakes_Challenge/static/images/majorEarthquakes.png'>
 
 ### Additional Map Style
 
-For a final map style, we created a "Dark Mode" map: 
+For a final map style we created a "Dark Mode" map: 
 <img src='Earthquakes_Challenge/static/images/darkMode.png'>
 
 
@@ -37,9 +37,9 @@ For a final map style, we created a "Dark Mode" map:
 
 ### Next Steps
 
-1) We can correlate the major earthquakes with the major tectonic plate boundaries, but is there a way to explain the smaller earthquakes that appear to frequent the southern and western US plus Alaska?
+1) We can correlate the major earthquakes with the major tectonic plate boundaries, but is there a way to explain the smaller earthquakes that appear to frequent the southern and western US and Alaska?
     - Are there minor tectonic plate boundaries that we could map for the USA?
     - Do earthquakes correlate to shale plays in the oil and gas industry?
-2) Does type of the plate boundary affect the strength and/or frequency of earthquakes?
+2) Does the type of tectonic plate boundary affect the strength and/or frequency of earthquakes?
     - We could color-code convergent, divergent, and transform boundaries to visually aid our analysis.
 3) Are we missing smaller earthquake data from Europe, Canada, and Africa because our data is sourced from a US agency?
